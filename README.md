@@ -4,6 +4,7 @@
 
 - <b>Nmap Port Scanning</b>
   - [Network Enumeration](https://github.com/Kieyontay/NmapLab)
+  - [Burp Suite Proxy](https://github.com/Kieyontay/Burp-Suite)
 
 <h2> 🤳🏾 Connect with me:</h2>
 
