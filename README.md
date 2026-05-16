@@ -1,9 +1,10 @@
 <h1>Hi, I'm Kieyontay!
 
-<h2>👩🏾‍💻 Penetration Testing Projects:</h2>
+<h2>👩🏾‍💻 Penetration Testing Labs:</h2>
 
 - <b>Nmap Port Scanning</b>
   - [Network Enumeration](https://github.com/Kieyontay/NmapLab)
+- <b>Burp Suite</b>
   - [Burp Suite Proxy](https://github.com/Kieyontay/Burp-Suite)
 
 <h2> 🤳🏾 Connect with me:</h2>
