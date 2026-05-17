@@ -7,6 +7,7 @@
 - <b>Burp Suite</b>
   - [Burp Suite Proxy](https://github.com/Kieyontay/Burp-Suite-Proxy)
   - [Burp Suite Repeater](https://github.com/Kieyontay/Burp-Suite-Repeater)
+  - [Burp Suite Intruder](https://github.com/Kieyontay/Burp-Suite-Intruder)
 
 <h2> 🤳🏾 Connect with me:</h2>
 
